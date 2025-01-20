@@ -56,4 +56,5 @@ The program measures the time taken to compress a file using the high-resolution
 Users can test the tool with varying thread counts to observe the impact of multithreading on performance.
 
 #OUTPUT OF THE TASK: 
+
 ![Image](https://github.com/user-attachments/assets/cc12d1a3-2107-4848-ab35-798b2c3197bc)
