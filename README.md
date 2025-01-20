@@ -12,7 +12,8 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-# DESCRIPTION:The multithreaded file compression tool is a C++ application designed to optimize file compression and decompression using multithreading. This project leverages parallel processing to improve performance by splitting files into smaller chunks that can be processed simultaneously. It uses the widely adopted zlib library for compression and decompression, ensuring efficient and standard file handling.
+# DESCRIPTION:
+The multithreaded file compression tool is a C++ application designed to optimize file compression and decompression using multithreading. This project leverages parallel processing to improve performance by splitting files into smaller chunks that can be processed simultaneously. It uses the widely adopted zlib library for compression and decompression, ensuring efficient and standard file handling.
 
 Objective
 The primary goal of this project is to demonstrate the performance benefits of multithreading in file compression and decompression tasks. By distributing the workload across multiple threads, the tool achieves faster processing times, particularly for large files. It also provides users with a straightforward menu-driven interface to interact with the application.
